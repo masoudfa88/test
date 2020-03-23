@@ -1,0 +1,7 @@
+input[type=text],input[type=email],input[type=password],input[type=number]{
+    background-color: salmon;
+    border: red 1px solid;
+}
+*{
+    background-color: seagreen;
+}
